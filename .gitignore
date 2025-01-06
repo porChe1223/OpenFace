@@ -1,0 +1,4 @@
+venv/
+OpenFace/
+Data/*
+DataResult_Speak/*
