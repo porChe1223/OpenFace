@@ -2,3 +2,4 @@ venv/
 OpenFace/
 Data/*
 DataResult_Speak/*
+*.env
